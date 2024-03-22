@@ -2,6 +2,9 @@
 
 ## 개발자를 꿈꾸는 학생입니다!
 
+
+### Platforms & Languages
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-007396.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
