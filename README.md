@@ -1,5 +1,6 @@
 ### Hi there 👋
-## hello world!
+
+## 개발자를 꿈꾸는 학생입니다!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supernovaMK)](https://github.com/anuraghazra/github-readme-stats)
 
