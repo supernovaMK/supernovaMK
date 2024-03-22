@@ -2,7 +2,8 @@
 
 ## 개발자를 꿈꾸는 학생입니다!
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-007396.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supernovaMK)](https://github.com/anuraghazra/github-readme-stats)
