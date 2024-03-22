@@ -2,7 +2,15 @@
 ## hello world!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supernovaMK)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernovaMK&hide=contribs,prs&show_icons=true&theme=테마)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/happyalsrl/)
+
+
+
+
+
 <!--
 **supernovaMK/supernovaMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
