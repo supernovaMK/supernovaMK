@@ -1,6 +1,6 @@
-### Hi there 👋
+### ALWAYS AWAKE!
 
-## 개발자를 꿈꾸는 학생입니다!
+## software engineer
 
 
 ### Platforms & Languages
