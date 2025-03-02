@@ -1,6 +1,4 @@
-### 안녕하세요!
-
-## software engineer
+### 하루하루는 성실하게 인생 전체는 되는대로
 
 
 ### Platforms & Languages
